@@ -10,7 +10,13 @@ The four neural networks employed are based on BiLSTM and GRU models, with final
 .
 ├── notebook                            # jupyter notebook containing the project's code                     
 ├── README.md
-├── requirements.txt                    # necessary installation
+├── requirements.txt                    # necessary installations
 ├── report.pdf                          # Report of the project
 ````
 
+## Required installations
+To install the required packages to run the project, download the ````requirements.txt```` file and run the following:
+
+````
+pip install -r /path/to/requirements.txt
+````
